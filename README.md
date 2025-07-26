@@ -13,7 +13,11 @@ The goal is to perform the complete data wrangling process using Python, includi
 
 ## 📁 Project Structure
 ├── Data_Wrangling_Project_Starter.ipynb
+
 ├── DataSets.txt
+
 ├── PoliceKillingsUS.csv
+
 ├── ShareRaceByCity.csv
+
 └── README.md
