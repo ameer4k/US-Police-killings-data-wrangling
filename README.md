@@ -12,3 +12,8 @@ This project focuses on cleaning, merging, and exploring two related real-world 
 The goal is to perform the complete data wrangling process using Python, including gathering, assessing, cleaning, storing, and analyzing data using a Jupyter Notebook. The final output includes visual insights that help answer a key research question.
 
 ## 📁 Project Structure
+├── Data_Wrangling_Project_Starter.ipynb
+├── DataSets.txt
+├── PoliceKillingsUS.csv
+├── ShareRaceByCity.csv
+└── README.md
