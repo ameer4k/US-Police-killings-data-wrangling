@@ -1,0 +1,4 @@
+Links of datasets :
+
+https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us?resource=download&select=ShareRaceByCity.csv
+https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us?resource=download&select=PoliceKillingsUS.csv
